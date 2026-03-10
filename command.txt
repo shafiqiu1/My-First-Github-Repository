@@ -10,3 +10,5 @@ Today is Thursday
 git 
 I love git to get
 git to save 
+i love you
+git added 
